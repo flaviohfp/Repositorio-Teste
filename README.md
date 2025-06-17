@@ -11,6 +11,8 @@ Repositorio para teste e aprendizados.
 	Estou decidindo a linguagem que irei fazer, mas vai abrir um arquivo executável, no terminal do usuário(CMD, powerShell etc...), e la terá todas as opções para o usuário escolher.
 
 
+https://www.google.com/imgres?q=gif%20programador&imgurl=https%3A%2F%2Fmedia.tenor.com%2F72KOt1vBTksAAAAM%2Fhacker-soy-hacker.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramador-gifs&docid=8ncQ6jFZk-BBJM&tbnid=kZkm33p8FOTY3M&vet=12ahUKEwi0iqOXofmNAxXmrJUCHTqePZkQM3oECG4QAA..i&w=220&h=146&hcb=2&ved=2ahUKEwi0iqOXofmNAxXmrJUCHTqePZkQM3oECG4QAA
+
 
 
 
