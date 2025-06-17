@@ -11,6 +11,7 @@ Repositorio para teste e aprendizados.
 	Estou decidindo a linguagem que irei fazer, mas vai abrir um arquivo executável, no terminal do usuário(CMD, powerShell etc...), e la terá todas as opções para o usuário escolher.
 
 
+![image](https://github.com/user-attachments/assets/b02ba064-b134-4340-8951-af575c759672)
 
 
 
